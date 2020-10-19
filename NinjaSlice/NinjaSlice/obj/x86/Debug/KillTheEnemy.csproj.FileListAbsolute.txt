@@ -1,0 +1,15 @@
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\HamaShot\HamaShot\HamaShot\bin\x86\Debug\Content\cursorgreen.xnb
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\HamaShot\HamaShot\HamaShot\bin\x86\Debug\Content\cursorred.xnb
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\HamaShot\HamaShot\HamaShot\bin\x86\Debug\Content\tester.xnb
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\HamaShot\HamaShot\HamaShot\bin\x86\Debug\Content\M16Sound.xnb
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\HamaShot\HamaShot\HamaShot\bin\x86\Debug\Content\M16Sound.wma
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\HamaShot\HamaShot\HamaShot\bin\x86\Debug\HamaShot.exe
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\HamaShot\HamaShot\HamaShot\bin\x86\Debug\HamaShot.pdb
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\HamaShot\HamaShot\HamaShot\obj\x86\Debug\KillTheEnemy.csprojResolveAssemblyReference.cache
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\HamaShot\HamaShot\HamaShot\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\HamaShot\HamaShot\HamaShot\obj\x86\Debug\HamaShot.Launcher.resources
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\HamaShot\HamaShot\HamaShot\obj\x86\Debug\HamaShot.Resource.resources
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\HamaShot\HamaShot\HamaShot\obj\x86\Debug\KillTheEnemy.csproj.GenerateResource.Cache
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\HamaShot\HamaShot\HamaShot\obj\x86\Debug\HamaShot.exe
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\HamaShot\HamaShot\HamaShot\obj\x86\Debug\HamaShot.pdb
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\HamaShot\HamaShot\HamaShot\obj\x86\Debug\KillTheEnemy.Start.resources

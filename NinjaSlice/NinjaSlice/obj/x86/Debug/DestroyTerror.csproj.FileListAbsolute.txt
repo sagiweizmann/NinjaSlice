@@ -1,0 +1,388 @@
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\DestroyTerror\HamaShot\HamaShot\bin\x86\Debug\Content\cursorgreen.xnb
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\DestroyTerror\HamaShot\HamaShot\bin\x86\Debug\Content\cursorred.xnb
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\DestroyTerror\HamaShot\HamaShot\bin\x86\Debug\Content\tester.xnb
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\DestroyTerror\HamaShot\HamaShot\bin\x86\Debug\Content\M16Sound.xnb
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\DestroyTerror\HamaShot\HamaShot\bin\x86\Debug\Content\M16Sound.wma
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\DestroyTerror\HamaShot\HamaShot\bin\x86\Debug\HamaShot.exe
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\DestroyTerror\HamaShot\HamaShot\bin\x86\Debug\HamaShot.pdb
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\DestroyTerror\HamaShot\HamaShot\obj\x86\Debug\DestroyTerror.csprojResolveAssemblyReference.cache
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\DestroyTerror\HamaShot\HamaShot\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\DestroyTerror\HamaShot\HamaShot\obj\x86\Debug\KillTheEnemy.Launcher.resources
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\DestroyTerror\HamaShot\HamaShot\obj\x86\Debug\HamaShot.Resource.resources
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\DestroyTerror\HamaShot\HamaShot\obj\x86\Debug\KillTheEnemy.Start.resources
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\DestroyTerror\HamaShot\HamaShot\obj\x86\Debug\DestroyTerror.csproj.GenerateResource.Cache
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\DestroyTerror\HamaShot\HamaShot\obj\x86\Debug\HamaShot.exe
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\DestroyTerror\HamaShot\HamaShot\obj\x86\Debug\HamaShot.pdb
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\DestroyTerror\HamaShot\HamaShot\bin\x86\Debug\Content\circle.xnb
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\DestroyTerror\HamaShot\HamaShot\bin\x86\Debug\Content\a3.xnb
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\DestroyTerror\HamaShot\HamaShot\bin\x86\Debug\Content\a2.xnb
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\DestroyTerror\HamaShot\HamaShot\bin\x86\Debug\Content\cutted.xnb
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\DestroyTerror\HamaShot\HamaShot\bin\x86\Debug\Content\Music.xnb
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\DestroyTerror\HamaShot\HamaShot\bin\x86\Debug\Content\Music.wma
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\cursorgreen.xnb
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\cursorred.xnb
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\tester.xnb
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\circle.xnb
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\a3.xnb
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\a2.xnb
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\cutted.xnb
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\M16Sound.xnb
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\Music.xnb
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\M16Sound.wma
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\Music.wma
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\DestroyTerror\DestroyTerror\DestroyTerror\obj\x86\Debug\DestroyTerror.csprojResolveAssemblyReference.cache
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\DestroyTerror\DestroyTerror\DestroyTerror\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\DestroyTerror\DestroyTerror\DestroyTerror\obj\x86\Debug\DestroyTerror.csproj.GenerateResource.Cache
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\DestroyTerror\DestroyTerror\DestroyTerror\obj\x86\Debug\DestroyTerror.Resource.resources
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\DestroyTerror\DestroyTerror\DestroyTerror\obj\x86\Debug\DestroyTerror.Launcher.resources
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\DestroyTerror.exe
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\DestroyTerror.pdb
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\DestroyTerror\DestroyTerror\DestroyTerror\obj\x86\Debug\DestroyTerror.exe
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\DestroyTerror\DestroyTerror\DestroyTerror\obj\x86\Debug\DestroyTerror.pdb
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\exit.xnb
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\menu.xnb
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\startmenu.xnb
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\store.xnb
+D:\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\cursorgreen.xnb
+D:\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\cursorred.xnb
+D:\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\tester.xnb
+D:\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\circle.xnb
+D:\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\a3.xnb
+D:\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\a2.xnb
+D:\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\cutted.xnb
+D:\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\exit.xnb
+D:\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\menu.xnb
+D:\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\startmenu.xnb
+D:\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\store.xnb
+D:\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\M16Sound.xnb
+D:\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\Music.xnb
+D:\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\M16Sound.wma
+D:\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\Music.wma
+D:\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\DestroyTerror.exe
+D:\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\DestroyTerror.pdb
+D:\DestroyTerror\DestroyTerror\DestroyTerror\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DestroyTerror\DestroyTerror\DestroyTerror\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\DestroyTerror\DestroyTerror\DestroyTerror\obj\x86\Debug\DestroyTerror.Launcher.resources
+D:\DestroyTerror\DestroyTerror\DestroyTerror\obj\x86\Debug\DestroyTerror.Resource.resources
+D:\DestroyTerror\DestroyTerror\DestroyTerror\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\DestroyTerror\DestroyTerror\DestroyTerror\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\DestroyTerror\DestroyTerror\DestroyTerror\obj\x86\Debug\DestroyTerror.exe
+D:\DestroyTerror\DestroyTerror\DestroyTerror\obj\x86\Debug\DestroyTerror.pdb
+D:\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\exithover.xnb
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\exithover.xnb
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\Shot.xnb
+D:\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\Shot.xnb
+D:\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\startmenuhover.xnb
+D:\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\sword.xnb
+C:\Users\owner\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\cursorgreen.xnb
+C:\Users\owner\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\cursorred.xnb
+C:\Users\owner\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\tester.xnb
+C:\Users\owner\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\circle.xnb
+C:\Users\owner\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\a3.xnb
+C:\Users\owner\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\a2.xnb
+C:\Users\owner\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\cutted.xnb
+C:\Users\owner\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\exit.xnb
+C:\Users\owner\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\menu.xnb
+C:\Users\owner\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\startmenu.xnb
+C:\Users\owner\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\store.xnb
+C:\Users\owner\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\exithover.xnb
+C:\Users\owner\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\startmenuhover.xnb
+C:\Users\owner\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\sword.xnb
+C:\Users\owner\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\M16Sound.xnb
+C:\Users\owner\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\Music.xnb
+C:\Users\owner\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\Shot.xnb
+C:\Users\owner\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\M16Sound.wma
+C:\Users\owner\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\Music.wma
+C:\Users\owner\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\DestroyTerror.exe
+C:\Users\owner\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\DestroyTerror.pdb
+C:\Users\owner\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\owner\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\owner\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\obj\x86\Debug\DestroyTerror.Launcher.resources
+C:\Users\owner\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\obj\x86\Debug\DestroyTerror.Resource.resources
+C:\Users\owner\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\owner\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\owner\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\obj\x86\Debug\DestroyTerror.exe
+C:\Users\owner\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\obj\x86\Debug\DestroyTerror.pdb
+C:\Users\Sagi\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\cursorgreen.xnb
+C:\Users\Sagi\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\cursorred.xnb
+C:\Users\Sagi\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\tester.xnb
+C:\Users\Sagi\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\circle.xnb
+C:\Users\Sagi\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\a3.xnb
+C:\Users\Sagi\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\a2.xnb
+C:\Users\Sagi\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\cutted.xnb
+C:\Users\Sagi\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\exit.xnb
+C:\Users\Sagi\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\menu.xnb
+C:\Users\Sagi\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\startmenu.xnb
+C:\Users\Sagi\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\store.xnb
+C:\Users\Sagi\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\exithover.xnb
+C:\Users\Sagi\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\startmenuhover.xnb
+C:\Users\Sagi\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\sword.xnb
+C:\Users\Sagi\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\M16Sound.xnb
+C:\Users\Sagi\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\Music.xnb
+C:\Users\Sagi\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\Shot.xnb
+C:\Users\Sagi\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\M16Sound.wma
+C:\Users\Sagi\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\Music.wma
+C:\Users\Sagi\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\DestroyTerror.exe
+C:\Users\Sagi\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\DestroyTerror.pdb
+C:\Users\Sagi\Desktop\NewOne\DestroyTerror\DestroyTerror\obj\x86\Debug\DestroyTerror.csprojResolveAssemblyReference.cache
+C:\Users\Sagi\Desktop\NewOne\DestroyTerror\DestroyTerror\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Sagi\Desktop\NewOne\DestroyTerror\DestroyTerror\obj\x86\Debug\DestroyTerror.Launcher.resources
+C:\Users\Sagi\Desktop\NewOne\DestroyTerror\DestroyTerror\obj\x86\Debug\DestroyTerror.Resource.resources
+C:\Users\Sagi\Desktop\NewOne\DestroyTerror\DestroyTerror\obj\x86\Debug\DestroyTerror.csproj.GenerateResource.Cache
+C:\Users\Sagi\Desktop\NewOne\DestroyTerror\DestroyTerror\obj\x86\Debug\DestroyTerror.exe
+C:\Users\Sagi\Desktop\NewOne\DestroyTerror\DestroyTerror\obj\x86\Debug\DestroyTerror.pdb
+C:\Users\owner\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\cursorgreen.xnb
+C:\Users\owner\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\cursorred.xnb
+C:\Users\owner\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\tester.xnb
+C:\Users\owner\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\circle.xnb
+C:\Users\owner\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\a3.xnb
+C:\Users\owner\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\a2.xnb
+C:\Users\owner\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\cutted.xnb
+C:\Users\owner\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\exit.xnb
+C:\Users\owner\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\menu.xnb
+C:\Users\owner\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\startmenu.xnb
+C:\Users\owner\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\store.xnb
+C:\Users\owner\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\exithover.xnb
+C:\Users\owner\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\startmenuhover.xnb
+C:\Users\owner\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\sword.xnb
+C:\Users\owner\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\M16Sound.xnb
+C:\Users\owner\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\Music.xnb
+C:\Users\owner\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\Shot.xnb
+C:\Users\owner\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\M16Sound.wma
+C:\Users\owner\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\Music.wma
+C:\Users\owner\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\DestroyTerror.exe
+C:\Users\owner\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\DestroyTerror.pdb
+C:\Users\owner\Desktop\NewOne\DestroyTerror\DestroyTerror\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\owner\Desktop\NewOne\DestroyTerror\DestroyTerror\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\owner\Desktop\NewOne\DestroyTerror\DestroyTerror\obj\x86\Debug\DestroyTerror.Launcher.resources
+C:\Users\owner\Desktop\NewOne\DestroyTerror\DestroyTerror\obj\x86\Debug\DestroyTerror.Resource.resources
+C:\Users\owner\Desktop\NewOne\DestroyTerror\DestroyTerror\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\owner\Desktop\NewOne\DestroyTerror\DestroyTerror\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\owner\Desktop\NewOne\DestroyTerror\DestroyTerror\obj\x86\Debug\DestroyTerror.exe
+C:\Users\owner\Desktop\NewOne\DestroyTerror\DestroyTerror\obj\x86\Debug\DestroyTerror.pdb
+C:\Users\owner\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\backgroundgame.xnb
+C:\Users\owner\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\font.xnb
+C:\Users\owner\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\transp.xnb
+C:\Users\owner\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\score.xnb
+D:\NewOne\DestroyTerror\DestroyTerror\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\NewOne\DestroyTerror\DestroyTerror\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\NewOne\DestroyTerror\DestroyTerror\obj\x86\Debug\DestroyTerror.Launcher.resources
+D:\NewOne\DestroyTerror\DestroyTerror\obj\x86\Debug\DestroyTerror.Resource.resources
+D:\NewOne\DestroyTerror\DestroyTerror\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\NewOne\DestroyTerror\DestroyTerror\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\NewOne\DestroyTerror\DestroyTerror\obj\x86\Debug\DestroyTerror.exe
+D:\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\cursorgreen.xnb
+D:\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\cursorred.xnb
+D:\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\tester.xnb
+D:\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\circle.xnb
+D:\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\a3.xnb
+D:\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\a2.xnb
+D:\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\cutted.xnb
+D:\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\exit.xnb
+D:\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\menu.xnb
+D:\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\startmenu.xnb
+D:\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\store.xnb
+D:\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\exithover.xnb
+D:\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\startmenuhover.xnb
+D:\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\sword.xnb
+D:\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\backgroundgame.xnb
+D:\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\transp.xnb
+D:\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\score.xnb
+D:\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\M16Sound.xnb
+D:\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\Music.xnb
+D:\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\Shot.xnb
+D:\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\font.xnb
+D:\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\M16Sound.wma
+D:\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\Music.wma
+D:\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\DestroyTerror.exe
+D:\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\DestroyTerror.pdb
+D:\NewOne\DestroyTerror\DestroyTerror\obj\x86\Debug\DestroyTerror.pdb
+C:\Users\Sagi\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\backgroundgame.xnb
+C:\Users\Sagi\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\transp.xnb
+C:\Users\Sagi\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\score.xnb
+C:\Users\Sagi\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\font.xnb
+F:\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\cursorgreen.xnb
+F:\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\cursorred.xnb
+F:\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\tester.xnb
+F:\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\circle.xnb
+F:\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\a3.xnb
+F:\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\a2.xnb
+F:\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\cutted.xnb
+F:\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\exit.xnb
+F:\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\menu.xnb
+F:\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\startmenu.xnb
+F:\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\store.xnb
+F:\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\exithover.xnb
+F:\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\startmenuhover.xnb
+F:\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\sword.xnb
+F:\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\backgroundgame.xnb
+F:\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\transp.xnb
+F:\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\score.xnb
+F:\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\M16Sound.xnb
+F:\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\Music.xnb
+F:\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\Shot.xnb
+F:\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\font.xnb
+F:\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\M16Sound.wma
+F:\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\Music.wma
+F:\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\DestroyTerror.exe
+F:\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\DestroyTerror.pdb
+F:\NewOne\DestroyTerror\DestroyTerror\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\NewOne\DestroyTerror\DestroyTerror\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\NewOne\DestroyTerror\DestroyTerror\obj\x86\Debug\DestroyTerror.Launcher.resources
+F:\NewOne\DestroyTerror\DestroyTerror\obj\x86\Debug\DestroyTerror.Resource.resources
+F:\NewOne\DestroyTerror\DestroyTerror\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\NewOne\DestroyTerror\DestroyTerror\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\NewOne\DestroyTerror\DestroyTerror\obj\x86\Debug\DestroyTerror.exe
+F:\NewOne\DestroyTerror\DestroyTerror\obj\x86\Debug\DestroyTerror.pdb
+C:\Users\owner\Desktop\תיקיה חדשה\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\cursorgreen.xnb
+C:\Users\owner\Desktop\תיקיה חדשה\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\cursorred.xnb
+C:\Users\owner\Desktop\תיקיה חדשה\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\tester.xnb
+C:\Users\owner\Desktop\תיקיה חדשה\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\circle.xnb
+C:\Users\owner\Desktop\תיקיה חדשה\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\a3.xnb
+C:\Users\owner\Desktop\תיקיה חדשה\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\a2.xnb
+C:\Users\owner\Desktop\תיקיה חדשה\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\cutted.xnb
+C:\Users\owner\Desktop\תיקיה חדשה\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\exit.xnb
+C:\Users\owner\Desktop\תיקיה חדשה\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\menu.xnb
+C:\Users\owner\Desktop\תיקיה חדשה\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\startmenu.xnb
+C:\Users\owner\Desktop\תיקיה חדשה\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\store.xnb
+C:\Users\owner\Desktop\תיקיה חדשה\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\exithover.xnb
+C:\Users\owner\Desktop\תיקיה חדשה\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\startmenuhover.xnb
+C:\Users\owner\Desktop\תיקיה חדשה\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\sword.xnb
+C:\Users\owner\Desktop\תיקיה חדשה\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\backgroundgame.xnb
+C:\Users\owner\Desktop\תיקיה חדשה\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\transp.xnb
+C:\Users\owner\Desktop\תיקיה חדשה\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\score.xnb
+C:\Users\owner\Desktop\תיקיה חדשה\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\M16Sound.xnb
+C:\Users\owner\Desktop\תיקיה חדשה\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\Music.xnb
+C:\Users\owner\Desktop\תיקיה חדשה\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\Shot.xnb
+C:\Users\owner\Desktop\תיקיה חדשה\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\font.xnb
+C:\Users\owner\Desktop\תיקיה חדשה\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\M16Sound.wma
+C:\Users\owner\Desktop\תיקיה חדשה\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\Music.wma
+C:\Users\owner\Desktop\תיקיה חדשה\DestroyTerror\DestroyTerror\bin\x86\Debug\DestroyTerror.exe
+C:\Users\owner\Desktop\תיקיה חדשה\DestroyTerror\DestroyTerror\bin\x86\Debug\DestroyTerror.pdb
+C:\Users\owner\Desktop\תיקיה חדשה\DestroyTerror\DestroyTerror\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\owner\Desktop\תיקיה חדשה\DestroyTerror\DestroyTerror\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\owner\Desktop\תיקיה חדשה\DestroyTerror\DestroyTerror\obj\x86\Debug\DestroyTerror.Launcher.resources
+C:\Users\owner\Desktop\תיקיה חדשה\DestroyTerror\DestroyTerror\obj\x86\Debug\DestroyTerror.Resource.resources
+C:\Users\owner\Desktop\תיקיה חדשה\DestroyTerror\DestroyTerror\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\owner\Desktop\תיקיה חדשה\DestroyTerror\DestroyTerror\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\owner\Desktop\תיקיה חדשה\DestroyTerror\DestroyTerror\obj\x86\Debug\DestroyTerror.exe
+C:\Users\owner\Desktop\תיקיה חדשה\DestroyTerror\DestroyTerror\obj\x86\Debug\DestroyTerror.pdb
+D:\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\blood.xnb
+C:\Users\Sagi\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\blood.xnb
+C:\Users\Sagi\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\terror2.xnb
+C:\Users\Sagi\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\cuttedter.xnb
+C:\Users\Sagi\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\bomb.xnb
+C:\Users\Sagi\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\blue.xnb
+C:\Users\Sagi\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\purple.xnb
+C:\Users\Sagi\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\red.xnb
+C:\Users\Sagi\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\yellow.xnb
+C:\Users\owner\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\blood.xnb
+C:\Users\owner\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\terror2.xnb
+C:\Users\owner\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\cuttedter.xnb
+C:\Users\owner\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\bomb.xnb
+C:\Users\owner\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\blue.xnb
+C:\Users\owner\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\purple.xnb
+C:\Users\owner\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\yellow.xnb
+C:\Users\owner\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\red.xnb
+C:\Users\Sagi\Desktop\NewOne\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\blood2.xnb
+C:\Users\Sagi\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\cursorgreen.xnb
+C:\Users\Sagi\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\cursorred.xnb
+C:\Users\Sagi\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\tester.xnb
+C:\Users\Sagi\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\circle.xnb
+C:\Users\Sagi\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\a3.xnb
+C:\Users\Sagi\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\a2.xnb
+C:\Users\Sagi\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\cutted.xnb
+C:\Users\Sagi\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\exit.xnb
+C:\Users\Sagi\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\menu.xnb
+C:\Users\Sagi\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\startmenu.xnb
+C:\Users\Sagi\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\store.xnb
+C:\Users\Sagi\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\exithover.xnb
+C:\Users\Sagi\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\startmenuhover.xnb
+C:\Users\Sagi\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\sword.xnb
+C:\Users\Sagi\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\backgroundgame.xnb
+C:\Users\Sagi\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\transp.xnb
+C:\Users\Sagi\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\score.xnb
+C:\Users\Sagi\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\blood.xnb
+C:\Users\Sagi\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\terror2.xnb
+C:\Users\Sagi\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\cuttedter.xnb
+C:\Users\Sagi\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\bomb.xnb
+C:\Users\Sagi\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\blue.xnb
+C:\Users\Sagi\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\purple.xnb
+C:\Users\Sagi\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\yellow.xnb
+C:\Users\Sagi\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\red.xnb
+C:\Users\Sagi\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\blood2.xnb
+C:\Users\Sagi\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\M16Sound.xnb
+C:\Users\Sagi\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\Music.xnb
+C:\Users\Sagi\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\Shot.xnb
+C:\Users\Sagi\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\font.xnb
+C:\Users\Sagi\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\M16Sound.wma
+C:\Users\Sagi\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\Music.wma
+C:\Users\Sagi\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\DestroyTerror.exe
+C:\Users\Sagi\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\DestroyTerror.pdb
+C:\Users\Sagi\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\obj\x86\Debug\DestroyTerror.csprojResolveAssemblyReference.cache
+C:\Users\Sagi\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Sagi\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\obj\x86\Debug\DestroyTerror.Launcher.resources
+C:\Users\Sagi\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\obj\x86\Debug\DestroyTerror.Resource.resources
+C:\Users\Sagi\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\obj\x86\Debug\DestroyTerror.csproj.GenerateResource.Cache
+C:\Users\Sagi\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\obj\x86\Debug\DestroyTerror.exe
+C:\Users\Sagi\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\obj\x86\Debug\DestroyTerror.pdb
+C:\Users\Sagi\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\k1.xnb
+C:\Users\Sagi\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\k2.xnb
+C:\Users\Sagi\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\cuttedblue.xnb
+C:\Users\Sagi\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\cuttedpur.xnb
+C:\Users\Sagi\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\cuttedred.xnb
+C:\Users\Sagi\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\cuttedyel.xnb
+C:\Users\Sagi\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\tru.xnb
+C:\Users\Sagi\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\back.xnb
+C:\Users\Sagi\Desktop\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\NEWBACK.xnb
+Z:\יב 2 - 2015\שגיא ויצמן\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\cursorgreen.xnb
+Z:\יב 2 - 2015\שגיא ויצמן\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\cursorred.xnb
+Z:\יב 2 - 2015\שגיא ויצמן\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\tester.xnb
+Z:\יב 2 - 2015\שגיא ויצמן\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\circle.xnb
+Z:\יב 2 - 2015\שגיא ויצמן\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\a3.xnb
+Z:\יב 2 - 2015\שגיא ויצמן\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\a2.xnb
+Z:\יב 2 - 2015\שגיא ויצמן\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\cutted.xnb
+Z:\יב 2 - 2015\שגיא ויצמן\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\exit.xnb
+Z:\יב 2 - 2015\שגיא ויצמן\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\menu.xnb
+Z:\יב 2 - 2015\שגיא ויצמן\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\startmenu.xnb
+Z:\יב 2 - 2015\שגיא ויצמן\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\store.xnb
+Z:\יב 2 - 2015\שגיא ויצמן\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\exithover.xnb
+Z:\יב 2 - 2015\שגיא ויצמן\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\startmenuhover.xnb
+Z:\יב 2 - 2015\שגיא ויצמן\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\sword.xnb
+Z:\יב 2 - 2015\שגיא ויצמן\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\backgroundgame.xnb
+Z:\יב 2 - 2015\שגיא ויצמן\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\transp.xnb
+Z:\יב 2 - 2015\שגיא ויצמן\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\score.xnb
+Z:\יב 2 - 2015\שגיא ויצמן\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\blood.xnb
+Z:\יב 2 - 2015\שגיא ויצמן\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\terror2.xnb
+Z:\יב 2 - 2015\שגיא ויצמן\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\cuttedter.xnb
+Z:\יב 2 - 2015\שגיא ויצמן\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\bomb.xnb
+Z:\יב 2 - 2015\שגיא ויצמן\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\blue.xnb
+Z:\יב 2 - 2015\שגיא ויצמן\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\purple.xnb
+Z:\יב 2 - 2015\שגיא ויצמן\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\yellow.xnb
+Z:\יב 2 - 2015\שגיא ויצמן\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\red.xnb
+Z:\יב 2 - 2015\שגיא ויצמן\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\blood2.xnb
+Z:\יב 2 - 2015\שגיא ויצמן\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\cuttedblue.xnb
+Z:\יב 2 - 2015\שגיא ויצמן\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\cuttedpur.xnb
+Z:\יב 2 - 2015\שגיא ויצמן\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\cuttedred.xnb
+Z:\יב 2 - 2015\שגיא ויצמן\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\cuttedyel.xnb
+Z:\יב 2 - 2015\שגיא ויצמן\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\tru.xnb
+Z:\יב 2 - 2015\שגיא ויצמן\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\back.xnb
+Z:\יב 2 - 2015\שגיא ויצמן\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\NEWBACK.xnb
+Z:\יב 2 - 2015\שגיא ויצמן\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\M16Sound.xnb
+Z:\יב 2 - 2015\שגיא ויצמן\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\Music.xnb
+Z:\יב 2 - 2015\שגיא ויצמן\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\Shot.xnb
+Z:\יב 2 - 2015\שגיא ויצמן\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\k1.xnb
+Z:\יב 2 - 2015\שגיא ויצמן\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\k2.xnb
+Z:\יב 2 - 2015\שגיא ויצמן\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\font.xnb
+Z:\יב 2 - 2015\שגיא ויצמן\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\M16Sound.wma
+Z:\יב 2 - 2015\שגיא ויצמן\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\Content\Music.wma
+Z:\יב 2 - 2015\שגיא ויצמן\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\DestroyTerror.exe
+Z:\יב 2 - 2015\שגיא ויצמן\DestroyTerror\DestroyTerror\DestroyTerror\bin\x86\Debug\DestroyTerror.pdb
+Z:\יב 2 - 2015\שגיא ויצמן\DestroyTerror\DestroyTerror\DestroyTerror\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\יב 2 - 2015\שגיא ויצמן\DestroyTerror\DestroyTerror\DestroyTerror\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+Z:\יב 2 - 2015\שגיא ויצמן\DestroyTerror\DestroyTerror\DestroyTerror\obj\x86\Debug\DestroyTerror.Launcher.resources
+Z:\יב 2 - 2015\שגיא ויצמן\DestroyTerror\DestroyTerror\DestroyTerror\obj\x86\Debug\DestroyTerror.Resource.resources
+Z:\יב 2 - 2015\שגיא ויצמן\DestroyTerror\DestroyTerror\DestroyTerror\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\יב 2 - 2015\שגיא ויצמן\DestroyTerror\DestroyTerror\DestroyTerror\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\יב 2 - 2015\שגיא ויצמן\DestroyTerror\DestroyTerror\DestroyTerror\obj\x86\Debug\DestroyTerror.exe
+Z:\יב 2 - 2015\שגיא ויצמן\DestroyTerror\DestroyTerror\DestroyTerror\obj\x86\Debug\DestroyTerror.pdb

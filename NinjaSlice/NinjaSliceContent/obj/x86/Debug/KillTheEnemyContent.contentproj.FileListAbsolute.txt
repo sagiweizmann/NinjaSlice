@@ -1,0 +1,2 @@
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\HamaShot\HamaShot\HamaShotContent\obj\x86\Debug\KillTheEnemyContent.contentprojResolveAssemblyReference.cache
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\DestroyTerror\HamaShot\HamaShotContent\obj\x86\Debug\KillTheEnemyContent.contentprojResolveAssemblyReference.cache

@@ -1,0 +1,399 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>cursorgreen.png</Source>
+      <Name>cursorgreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\יב 2 - 2015\שגיא ויצמן\NinjaSlice\NinjaSlice\NinjaSlice\bin\x86\Debug\Content\cursorgreen.xnb</Output>
+      <Time>2014-09-16T08:31:16+03:00</Time>
+    </Item>
+    <Item>
+      <Source>cursorred.png</Source>
+      <Name>cursorred</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\יב 2 - 2015\שגיא ויצמן\NinjaSlice\NinjaSlice\NinjaSlice\bin\x86\Debug\Content\cursorred.xnb</Output>
+      <Time>2014-09-16T08:31:16+03:00</Time>
+    </Item>
+    <Item>
+      <Source>tester.png</Source>
+      <Name>tester</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\יב 2 - 2015\שגיא ויצמן\NinjaSlice\NinjaSlice\NinjaSlice\bin\x86\Debug\Content\tester.xnb</Output>
+      <Time>2014-09-16T08:31:22+03:00</Time>
+    </Item>
+    <Item>
+      <Source>circle.png</Source>
+      <Name>circle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\יב 2 - 2015\שגיא ויצמן\NinjaSlice\NinjaSlice\NinjaSlice\bin\x86\Debug\Content\circle.xnb</Output>
+      <Time>2014-12-30T11:32:49.0180321+02:00</Time>
+    </Item>
+    <Item>
+      <Source>a3.png</Source>
+      <Name>a3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\יב 2 - 2015\שגיא ויצמן\NinjaSlice\NinjaSlice\NinjaSlice\bin\x86\Debug\Content\a3.xnb</Output>
+      <Time>2014-09-16T08:31:16+03:00</Time>
+    </Item>
+    <Item>
+      <Source>a2.png</Source>
+      <Name>a2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\יב 2 - 2015\שגיא ויצמן\NinjaSlice\NinjaSlice\NinjaSlice\bin\x86\Debug\Content\a2.xnb</Output>
+      <Time>2014-09-16T08:31:16+03:00</Time>
+    </Item>
+    <Item>
+      <Source>cutted.png</Source>
+      <Name>cutted</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\יב 2 - 2015\שגיא ויצמן\NinjaSlice\NinjaSlice\NinjaSlice\bin\x86\Debug\Content\cutted.xnb</Output>
+      <Time>2014-09-16T08:31:16+03:00</Time>
+    </Item>
+    <Item>
+      <Source>exit.png</Source>
+      <Name>exit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\יב 2 - 2015\שגיא ויצמן\NinjaSlice\NinjaSlice\NinjaSlice\bin\x86\Debug\Content\exit.xnb</Output>
+      <Time>2014-09-16T08:31:16+03:00</Time>
+    </Item>
+    <Item>
+      <Source>menu.png</Source>
+      <Name>menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\יב 2 - 2015\שגיא ויצמן\NinjaSlice\NinjaSlice\NinjaSlice\bin\x86\Debug\Content\menu.xnb</Output>
+      <Time>2014-09-16T08:31:18+03:00</Time>
+    </Item>
+    <Item>
+      <Source>startmenu.png</Source>
+      <Name>startmenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\יב 2 - 2015\שגיא ויצמן\NinjaSlice\NinjaSlice\NinjaSlice\bin\x86\Debug\Content\startmenu.xnb</Output>
+      <Time>2014-09-16T08:31:22+03:00</Time>
+    </Item>
+    <Item>
+      <Source>store.png</Source>
+      <Name>store</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\יב 2 - 2015\שגיא ויצמן\NinjaSlice\NinjaSlice\NinjaSlice\bin\x86\Debug\Content\store.xnb</Output>
+      <Time>2014-09-16T08:31:22+03:00</Time>
+    </Item>
+    <Item>
+      <Source>exithover.png</Source>
+      <Name>exithover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\יב 2 - 2015\שגיא ויצמן\NinjaSlice\NinjaSlice\NinjaSlice\bin\x86\Debug\Content\exithover.xnb</Output>
+      <Time>2014-09-16T08:31:18+03:00</Time>
+    </Item>
+    <Item>
+      <Source>startmenuhover.png</Source>
+      <Name>startmenuhover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\יב 2 - 2015\שגיא ויצמן\NinjaSlice\NinjaSlice\NinjaSlice\bin\x86\Debug\Content\startmenuhover.xnb</Output>
+      <Time>2014-09-16T08:31:22+03:00</Time>
+    </Item>
+    <Item>
+      <Source>sword.png</Source>
+      <Name>sword</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\יב 2 - 2015\שגיא ויצמן\NinjaSlice\NinjaSlice\NinjaSlice\bin\x86\Debug\Content\sword.xnb</Output>
+      <Time>2014-12-30T11:30:07.030767+02:00</Time>
+    </Item>
+    <Item>
+      <Source>backgroundgame.png</Source>
+      <Name>backgroundgame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\יב 2 - 2015\שגיא ויצמן\NinjaSlice\NinjaSlice\NinjaSlice\bin\x86\Debug\Content\backgroundgame.xnb</Output>
+      <Time>2014-09-16T11:31:08+03:00</Time>
+    </Item>
+    <Item>
+      <Source>transp.png</Source>
+      <Name>transp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\יב 2 - 2015\שגיא ויצמן\NinjaSlice\NinjaSlice\NinjaSlice\bin\x86\Debug\Content\transp.xnb</Output>
+      <Time>2014-09-16T11:45:02+03:00</Time>
+    </Item>
+    <Item>
+      <Source>score.png</Source>
+      <Name>score</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\יב 2 - 2015\שגיא ויצמן\NinjaSlice\NinjaSlice\NinjaSlice\bin\x86\Debug\Content\score.xnb</Output>
+      <Time>2014-09-16T12:15:56+03:00</Time>
+    </Item>
+    <Item>
+      <Source>blood.png</Source>
+      <Name>blood</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\יב 2 - 2015\שגיא ויצמן\NinjaSlice\NinjaSlice\NinjaSlice\bin\x86\Debug\Content\blood.xnb</Output>
+      <Time>2014-11-04T10:48:08+02:00</Time>
+    </Item>
+    <Item>
+      <Source>terror2.png</Source>
+      <Name>terror2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\יב 2 - 2015\שגיא ויצמן\NinjaSlice\NinjaSlice\NinjaSlice\bin\x86\Debug\Content\terror2.xnb</Output>
+      <Time>2014-11-21T15:37:16+02:00</Time>
+    </Item>
+    <Item>
+      <Source>cuttedter.png</Source>
+      <Name>cuttedter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\יב 2 - 2015\שגיא ויצמן\NinjaSlice\NinjaSlice\NinjaSlice\bin\x86\Debug\Content\cuttedter.xnb</Output>
+      <Time>2014-11-21T15:37:22+02:00</Time>
+    </Item>
+    <Item>
+      <Source>bomb.png</Source>
+      <Name>bomb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\יב 2 - 2015\שגיא ויצמן\NinjaSlice\NinjaSlice\NinjaSlice\bin\x86\Debug\Content\bomb.xnb</Output>
+      <Time>2014-11-21T15:40:46+02:00</Time>
+    </Item>
+    <Item>
+      <Source>blue.png</Source>
+      <Name>blue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\יב 2 - 2015\שגיא ויצמן\NinjaSlice\NinjaSlice\NinjaSlice\bin\x86\Debug\Content\blue.xnb</Output>
+      <Time>2014-11-22T19:11:40+02:00</Time>
+    </Item>
+    <Item>
+      <Source>purple.png</Source>
+      <Name>purple</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\יב 2 - 2015\שגיא ויצמן\NinjaSlice\NinjaSlice\NinjaSlice\bin\x86\Debug\Content\purple.xnb</Output>
+      <Time>2014-11-22T19:11:40+02:00</Time>
+    </Item>
+    <Item>
+      <Source>yellow.png</Source>
+      <Name>yellow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\יב 2 - 2015\שגיא ויצמן\NinjaSlice\NinjaSlice\NinjaSlice\bin\x86\Debug\Content\yellow.xnb</Output>
+      <Time>2014-11-22T19:11:40+02:00</Time>
+    </Item>
+    <Item>
+      <Source>red.png</Source>
+      <Name>red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\יב 2 - 2015\שגיא ויצמן\NinjaSlice\NinjaSlice\NinjaSlice\bin\x86\Debug\Content\red.xnb</Output>
+      <Time>2014-11-22T19:14:52+02:00</Time>
+    </Item>
+    <Item>
+      <Source>blood2.png</Source>
+      <Name>blood2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\יב 2 - 2015\שגיא ויצמן\NinjaSlice\NinjaSlice\NinjaSlice\bin\x86\Debug\Content\blood2.xnb</Output>
+      <Time>2014-12-30T10:34:44.5054621+02:00</Time>
+    </Item>
+    <Item>
+      <Source>cuttedblue.png</Source>
+      <Name>cuttedblue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\יב 2 - 2015\שגיא ויצמן\NinjaSlice\NinjaSlice\NinjaSlice\bin\x86\Debug\Content\cuttedblue.xnb</Output>
+      <Time>2015-01-29T14:12:38.0341095+02:00</Time>
+    </Item>
+    <Item>
+      <Source>cuttedpur.png</Source>
+      <Name>cuttedpur</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\יב 2 - 2015\שגיא ויצמן\NinjaSlice\NinjaSlice\NinjaSlice\bin\x86\Debug\Content\cuttedpur.xnb</Output>
+      <Time>2015-01-29T14:13:19.8935691+02:00</Time>
+    </Item>
+    <Item>
+      <Source>cuttedred.png</Source>
+      <Name>cuttedred</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\יב 2 - 2015\שגיא ויצמן\NinjaSlice\NinjaSlice\NinjaSlice\bin\x86\Debug\Content\cuttedred.xnb</Output>
+      <Time>2015-01-29T14:11:32.3565367+02:00</Time>
+    </Item>
+    <Item>
+      <Source>cuttedyel.png</Source>
+      <Name>cuttedyel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\יב 2 - 2015\שגיא ויצמן\NinjaSlice\NinjaSlice\NinjaSlice\bin\x86\Debug\Content\cuttedyel.xnb</Output>
+      <Time>2015-01-29T14:14:03.0902113+02:00</Time>
+    </Item>
+    <Item>
+      <Source>tru.png</Source>
+      <Name>tru</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\יב 2 - 2015\שגיא ויצמן\NinjaSlice\NinjaSlice\NinjaSlice\bin\x86\Debug\Content\tru.xnb</Output>
+      <Time>2015-01-30T17:04:49.5742849+02:00</Time>
+    </Item>
+    <Item>
+      <Source>back.png</Source>
+      <Name>back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\יב 2 - 2015\שגיא ויצמן\NinjaSlice\NinjaSlice\NinjaSlice\bin\x86\Debug\Content\back.xnb</Output>
+      <Time>2015-01-30T17:08:14.7710215+02:00</Time>
+    </Item>
+    <Item>
+      <Source>NEWBACK.png</Source>
+      <Name>NEWBACK</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\יב 2 - 2015\שגיא ויצמן\NinjaSlice\NinjaSlice\NinjaSlice\bin\x86\Debug\Content\NEWBACK.xnb</Output>
+      <Time>2015-02-16T09:03:14.9473381+02:00</Time>
+    </Item>
+    <Item>
+      <Source>M16Sound.mp3</Source>
+      <Name>M16Sound</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\יב 2 - 2015\שגיא ויצמן\NinjaSlice\NinjaSlice\NinjaSlice\bin\x86\Debug\Content\M16Sound.xnb</Output>
+      <Extra>Z:\יב 2 - 2015\שגיא ויצמן\NinjaSlice\NinjaSlice\NinjaSlice\bin\x86\Debug\Content\M16Sound.wma</Extra>
+      <Time>2014-09-16T08:31:18+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Music.mp3</Source>
+      <Name>Music</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\יב 2 - 2015\שגיא ויצמן\NinjaSlice\NinjaSlice\NinjaSlice\bin\x86\Debug\Content\Music.xnb</Output>
+      <Extra>Z:\יב 2 - 2015\שגיא ויצמן\NinjaSlice\NinjaSlice\NinjaSlice\bin\x86\Debug\Content\Music.wma</Extra>
+      <Time>2014-09-16T08:31:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Shot.wav</Source>
+      <Name>Shot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\יב 2 - 2015\שגיא ויצמן\NinjaSlice\NinjaSlice\NinjaSlice\bin\x86\Debug\Content\Shot.xnb</Output>
+      <Time>2014-09-16T08:31:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>k1.wav</Source>
+      <Name>k1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\יב 2 - 2015\שגיא ויצמן\NinjaSlice\NinjaSlice\NinjaSlice\bin\x86\Debug\Content\k1.xnb</Output>
+      <Time>2015-01-18T13:07:27.4365437+02:00</Time>
+    </Item>
+    <Item>
+      <Source>k2.wav</Source>
+      <Name>k2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\יב 2 - 2015\שגיא ויצמן\NinjaSlice\NinjaSlice\NinjaSlice\bin\x86\Debug\Content\k2.xnb</Output>
+      <Time>2015-01-18T13:07:27.4395438+02:00</Time>
+    </Item>
+    <Item>
+      <Source>font.spritefont</Source>
+      <Name>font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\יב 2 - 2015\שגיא ויצמן\NinjaSlice\NinjaSlice\NinjaSlice\bin\x86\Debug\Content\font.xnb</Output>
+      <Time>2014-09-22T10:14:40+03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>Z:\יב 2 - 2015\שגיא ויצמן\NinjaSlice\NinjaSlice\NinjaSliceContent\</RootDirectory>
+      <LoggerRootDirectory>Z:\יב 2 - 2015\שגיא ויצמן\NinjaSlice\NinjaSlice\NinjaSlice\</LoggerRootDirectory>
+      <IntermediateDirectory>Z:\יב 2 - 2015\שגיא ויצמן\NinjaSlice\NinjaSlice\NinjaSliceContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>Z:\יב 2 - 2015\שגיא ויצמן\NinjaSlice\NinjaSlice\NinjaSlice\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-11-25T09:26:54.1960058+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

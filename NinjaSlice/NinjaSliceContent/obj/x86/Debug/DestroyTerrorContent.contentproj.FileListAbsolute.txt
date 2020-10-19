@@ -1,0 +1,10 @@
+C:\Users\Sagi\Documents\Visual Studio 2010\Projects\DestroyTerror\DestroyTerror\DestroyTerrorContent\obj\x86\Debug\DestroyTerrorContent.contentprojResolveAssemblyReference.cache
+D:\DestroyTerror\DestroyTerror\DestroyTerrorContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\owner\Desktop\DestroyTerror\DestroyTerror\DestroyTerrorContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sagi\Desktop\NewOne\DestroyTerror\DestroyTerrorContent\obj\x86\Debug\DestroyTerrorContent.contentprojResolveAssemblyReference.cache
+C:\Users\owner\Desktop\NewOne\DestroyTerror\DestroyTerrorContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\NewOne\DestroyTerror\DestroyTerrorContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\NewOne\DestroyTerror\DestroyTerrorContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\owner\Desktop\תיקיה חדשה\DestroyTerror\DestroyTerrorContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sagi\Desktop\DestroyTerror\DestroyTerror\DestroyTerrorContent\obj\x86\Debug\DestroyTerrorContent.contentprojResolveAssemblyReference.cache
+Z:\יב 2 - 2015\שגיא ויצמן\DestroyTerror\DestroyTerror\DestroyTerrorContent\obj\x86\Debug\ResolveAssemblyReference.cache
